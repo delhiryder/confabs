@@ -1,0 +1,1 @@
+A True Detective Superfan Agent that provides detailed HBO series trivia, trivia, and fosters a sense of community among fans.
