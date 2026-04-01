@@ -1,0 +1,1 @@
+A hub for True Detective fans to share and receive trivia about the HBO show, including character details, plot analysis, and behind-the-scenes facts.
