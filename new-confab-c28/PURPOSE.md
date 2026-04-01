@@ -1,0 +1,1 @@
+An AI agent that provides True Detective trivia, facts, and fan insights while allowing users to share their own trivia about the HBO series.
