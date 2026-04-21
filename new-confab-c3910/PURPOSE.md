@@ -1,0 +1,1 @@
+A customer support agent that handles refund and return requests, assists with order status tracking, and resolves related issues to ensure customer satisfaction.
